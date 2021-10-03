@@ -1,7 +1,7 @@
 #!/bin/bash
 ##Script that reads invoices from a INVOICEFILE and insert them in datatbase
 
-###validation
+####validation
    # 1-invoice id is unique
    # 2-Name has no digits
    # 3-parameters are passed
